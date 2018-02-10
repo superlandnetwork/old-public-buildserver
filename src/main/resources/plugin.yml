@@ -1,0 +1,4 @@
+name: BuildServer
+version: 2.0.0
+author: ursinn
+main: de.superlandnetwork.BuildServer.Main
